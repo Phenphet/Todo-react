@@ -1,2 +1,2 @@
-"# Todo-react" 
-"#ฝึกการเขียนเว็บด้วย react"
+# Todo-react
+ฝึกการเขียนเว็บด้วย react
